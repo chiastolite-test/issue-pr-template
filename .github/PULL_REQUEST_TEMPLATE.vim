@@ -1,6 +1,9 @@
 What's this PR do?
 ---
 
+Screenshots (if appropriate)
+---
+
 See Also
 ---
 
